@@ -1,6 +1,6 @@
 # Smart Home Control Panel
 
-![Application Screenshot](GUI.png) <!-- Add your screenshot file if available -->
+![Application Screenshot](GUI_Image.png) <!-- Add your screenshot file if available -->
 
 A Python-based GUI application for controlling smart home devices through MQTT with integrated voice control capabilities.
 
